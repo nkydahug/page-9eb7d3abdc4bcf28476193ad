@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "9dde4fe2698d6e787db92727",
+  "owner": "nkydahug",
+  "repo": "page-9eb7d3abdc4bcf28476193ad",
+  "title": "6C云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9eb7d3abdc4bcf28476193ad",
+      "a": "6C云",
+      "b": "2027官方最新地址导航",
+      "entity": "6C云",
+      "brand": "6C云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a56f6100d506e225e640fe1d18545ebd0d0f0e6b57c887016a7790c874145642",
+      "content": {
+        "primary_entity": "6C云",
+        "keyword1": "6C云",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择适合的客户端：桌面端推荐 Clash Verge，移动端可选 Shadowrocket 或 Clash Meta，请参考对应文档完成订阅导入。",
+          "AI_CLIENTS_TITLE": "客户端选择与订阅导入",
+          "AI_CLOSING_TEXT": "按设备与流量需求选择合适的套餐，导入订阅后即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐，轻松连接",
+          "AI_DESCRIPTION": "，面向需要稳定海外加速的用户提供多档订阅方案。基础版每月 15 元含 100GB 流量，适合 3 台以内设备；旗舰版每月 35 元提供 300GB 流量、5 台设备与 IPLC 专线，适合日常流媒体与游戏加速；团队版每月 85 元包含 1000GB 流量与 20 台设备，适配小型团队协作。按年付可享更优价格，客户端覆盖桌面与移动平台，订阅导入流程简洁。",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三个维度对比，选择匹配日常使用场景的套餐。",
+          "AI_FEATURES_TITLE": "订阅方案核心特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量支持 3 台设备，旗舰版每月 300GB 支持 5 台，团队版每月 1000GB 支持 20 台设备。",
+          "AI_FEATURE_TEXT_2": "旗舰版搭载 IPLC 专线并优化游戏加速，团队版提供 VIP 专属高带宽节点，满足更低延迟的传输需求。",
+          "AI_FEATURE_TEXT_3": "三档套餐均支持按年付，年付价格分别为 150 元、350 元和 850 元，长期使用更划算。",
+          "AI_FEATURE_TITLE_1": "流量与设备梯度",
+          "AI_FEATURE_TITLE_2": "线路与加速优化",
+          "AI_FEATURE_TITLE_3": "灵活计费周期",
+          "AI_GUIDE_INTRO": "按需选套餐，核对设备适配，再依客户端文档导入订阅，即可开始使用。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "6C云提供多档海外加速订阅，基础版、旗舰版与团队版分别匹配个人、进阶与团队场景。按设备数量、月流量与线路类型选择合适套餐，再参照客户端文档导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多档套餐匹配不同设备需求",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "年付方案价格更优",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版平衡流量与专线加速，团队版面向多设备协作场景。",
+          "AI_PLANS_TITLE": "套餐对比与选择建议",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量需求，在基础版、旗舰版和团队版之间选择合适的一档。",
+          "AI_STEP_TEXT_2": "确认所选套餐支持的设备平台，下载对应客户端并查阅配置说明。",
+          "AI_STEP_TEXT_3": "按照客户端文档导入订阅链接，完成连接后即可访问所需服务。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅连接",
+          "AI_VISUAL_TITLE": "6C云海外加速订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "6C云三档套餐的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB、3台设备；旗舰版每月300GB、5台设备，含IPLC专线；团队版每月1000GB、20台设备，支持企业定制路由。",
+          "AI_FAQ_QUESTION_2": "一台订阅可以同时在几台设备上用？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台、旗舰版5台、团队版20台设备同时在线。超出数量可能导致连接不稳定，建议按实际设备数选择。",
+          "AI_FAQ_QUESTION_3": "月付和年付哪个更合适？",
+          "AI_FAQ_ANSWER_3": "年付折算下来费用更低，例如旗舰版月付¥35、年付¥350，相当于约十个月价格。长期使用者可选年付，短期试用先选月付。",
+          "AI_FAQ_QUESTION_4": "支持哪些客户端导入订阅？",
+          "AI_FAQ_ANSWER_4": "常见代理客户端多可导入6C云订阅，Windows、macOS、Android、iOS上按对应客户端文档操作即可，具体兼容情况以所用客户端版本为准。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版提供1000GB月流量、20台设备、VIP高带宽节点及企业定制路由，并有专属客户经理，适合多人协作或小型工作室使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bhbtk.cn",
+    "host": "bhbtk.cn"
+  },
+  "file_hashes": {
+    "index.html": "7581cb238d6bf07537c1a2e3a30bff7cb5dc684637ae14c24667dd081738c5a0",
+    "sitemap.xml": "4001151836ce70f57f9f6db14faa5dd610853360d0e319c1ab62a115d60e49b3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "be70ba1f7809e03168d41d278a2637fcc99b7023723b905aff6f6a2c459b502d",
+    "robots.txt": "7634ad8fc3910397c3d319e5f82ae3cc07e818aa37501d84551a08cce0345397",
+    "87fb0eab62b3e7f32a88cfd25ffcb54a.txt": "1e3b95d7dd9fb11271f5de0ff27c7e6beb46255f5ba3bf1a3931ed6b8d231a70"
+  },
+  "revision": "fd944411dfdc1cdb7a6a21be9fc286dbc5a07e0efc0f92df081204b35373c61d"
+}
